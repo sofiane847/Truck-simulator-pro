@@ -1,0 +1,24 @@
+# Node.js Standard .gitignore
+
+# Dependency directories
+node_modules/
+
+# Directories for build outputs
+build/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
