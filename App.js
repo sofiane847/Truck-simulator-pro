@@ -1,0 +1,1 @@
+import React from 'react';\nimport { Text, View } from 'react-native';\n\nconst App = () => {\n  return (\n    <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>\n      <Text>Welcome to Truck Simulator Pro!</Text>\n    </View>\n  );\n};\n\nexport default App;
